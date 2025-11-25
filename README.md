@@ -40,13 +40,12 @@
            <div style="background-color: #FAF3D7; padding: 10px;"> 
        <h1 style="text-align:center;text-decorating: none; color: black; padding: 0 50px;">PHÙNG VÕ MINH CHÂU</h1>
            </div>
+          <hr>
               <div style="background-color: #72404B; padding: 10px;"> 
        <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">hay là yêu một chút</p>
        <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">cho đỡ buồn rồi thôi?</p>
        <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">hay cưới xin nghiêm túc</p>
        <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">đỡ đần nhau cuối đời?</p>
-       <hr>
-       <p style="text-align:center;text-decorating: none; color: black; padding: 0 10px;">Ngày tháng không quên - Phan Thị Thanh Nhàn</p>
          </div>
         </div>
     </div>
