@@ -6,7 +6,7 @@
     <title>MINH CHÂU</title>
     <style>
       body {
-        background-image: url('minhchau1.png');
+        background-image: url('minhchau.jpgjpg');
             background-size: cover;        /* Phủ toàn màn hình */
             background-position: center;   /* Canh giữa ảnh */
             background-repeat: no-repeat;  /* Không lặp lại */
@@ -50,38 +50,3 @@
         </div>
     </div>
 </body>
-<style>
-        /* Tiêu đề */
-.title {
-    text-align: center;
-    margin-top: 40px;
-    font-size: 40px;
-    font-weight: 700;
-    color: #72404B;
-}
-/* 4 thẻ */
-.container {
-    margin-top: 40px;
-    display: flex;
-    justify-content: center;
-    gap: 40px;
-}
-</style>
-         <body>
-    <div class="background"></div>
-    <div class="container">
-        <div class="card">
-            <img src="hoa.jpg" class="avatar">
-        </div>
-      <div class="card">
-            <img src="thap.jpg" class="avatar">
-      </div>
-      <div class="card">
-            <img src="canh.jpg" class="avatar">
-      </div>
-      <div class="card">
-            <img src="bla.jpg" class="avatar">
-      </div>
-         </div>
-      </div>
-         </body>
