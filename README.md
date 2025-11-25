@@ -58,7 +58,7 @@
     margin-top: 40px;
     font-size: 40px;
     font-weight: 700;
-    color: #1a365f;
+    color: #72404B;
 }
 /* 4 thẻ */
 .container {
