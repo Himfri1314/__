@@ -6,7 +6,7 @@
     <title>MINH CHÂU</title>
     <style>
       body {
-        background-image: url('minhchau.jpg');
+        background-image: url('minhchau1.jpg');
             background-size: cover;        /* Phủ toàn màn hình */
             background-position: center;   /* Canh giữa ảnh */
             background-repeat: no-repeat;  /* Không lặp lại */
@@ -37,14 +37,18 @@
     <div class="background"></div>
     <div class="container">
         <div class="card">
+           <div style="background-color: #FAF3D7; padding: 10px;"> 
        <h1 style="text-align:center;text-decorating: none; color: black; padding: 0 50px;">PHÙNG VÕ MINH CHÂU</h1>
-       <p style="text-align:center;text-decorating: none; color: black; padding: 0 10px;">hay là yêu một chút</p>
-       <p style="text-align:center;text-decorating: none; color: black; padding: 0 10px;">cho đỡ buồn rồi thôi?</p>
-       <p style="text-align:center;text-decorating: none; color: black; padding: 0 10px;">hay cưới xin nghiêm túc</p>
-       <p style="text-align:center;text-decorating: none; color: black; padding: 0 10px;">đỡ đần nhau cuối đời?</p>
+           </div>
+              <div style="background-color: #72404B; padding: 10px;"> 
+       <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">hay là yêu một chút</p>
+       <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">cho đỡ buồn rồi thôi?</p>
+       <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">hay cưới xin nghiêm túc</p>
+       <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">đỡ đần nhau cuối đời?</p>
        <hr>
        <p style="text-align:center;text-decorating: none; color: black; padding: 0 10px;">Ngày tháng không quên - Phan Thị Thanh Nhàn</p>
          </div>
+        </div>
     </div>
 </body>
 <style>
@@ -69,9 +73,16 @@
     <div class="container">
         <div class="card">
             <img src="hoa.jpg" class="avatar">
+        </div>
+      <div class="card">
             <img src="thap.jpg" class="avatar">
+      </div>
+      <div class="card">
             <img src="canh.jpg" class="avatar">
+      </div>
+      <div class="card">
             <img src="bla.jpg" class="avatar">
+      </div>
          </div>
       </div>
          </body>
