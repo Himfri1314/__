@@ -38,7 +38,7 @@
     <div class="container">
         <div class="card">
            <div style="background-color: #FAF3D7; padding: 10px;"> 
-       <h1 style="text-align:center;text-decorating: none; color: black; padding: 0 50px;">PHÙNG VÕ MINH CHÂU</h1>
+       <h1 style="text-align:center;text-decorating: none; color: #72404B; padding: 0 50px;">PHÙNG VÕ MINH CHÂU</h1>
            </div>
           <hr>
               <div style="background-color: #72404B; padding: 10px;"> 
